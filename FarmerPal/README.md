@@ -11,7 +11,7 @@
 
 ## DEPLOYMENT 🚀
 
-#### Deployment is done using IBM watson platform
+#### Deployment is done using IBM watson platform[https://cloud.ibm.com/]
 
 ## How to use 
 - Crop Recommendation system ==> enter the corresponding nutrient values of your soil, state and city. Note that, the N-P-K (Nitrogen-Phosphorous-Pottasium) values to be entered should be the ratio between them. 
